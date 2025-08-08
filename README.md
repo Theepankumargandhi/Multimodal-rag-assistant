@@ -87,14 +87,14 @@ multimodal-rag-assistant/
 **Selection Page**
 ![Selection Page](Screenshots/selection.png)
 
-**Audio Output**
-![Audio Output](Screenshots/audio_output.png)
+**Text Output**  
+![Text Output](Screenshots/text_output.png)
 
 **Image Output**  
 ![Image Output](Screenshots/image_output.png)
 
-**Text Output**  
-![Text Output](Screenshots/text_output.png)
+**Audio Output**
+![Audio Output](Screenshots/audio_output.png)
 
 **Chat Interface**  
 ![Chat Summary](Screenshots/summary.png)
