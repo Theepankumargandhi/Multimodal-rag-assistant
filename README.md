@@ -107,8 +107,7 @@ multimodal-rag-assistant/
 
 ### 1️ Clone the Repository
 ```bash
-git clone https://github.com/yourusername/multimodal-rag-assistant.git
-cd multimodal-rag-assistant
+git clone https://github.com/Theepankumargandh/multimodal-rag-assistant.git
 ```
 ### Create Virtual Environment
 ```
